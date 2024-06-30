@@ -1,0 +1,11 @@
+/.venv
+/.git
+/.idea
+.env
+**__pycache__**
+**opt**
+**.log
+/data
+**tar.gz
+tasks.json
+/temp/
